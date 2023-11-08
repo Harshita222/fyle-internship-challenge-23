@@ -44,7 +44,6 @@ Domain event services: Describe and show how to build your code and run the test
    ng build
    ng test
    
-
  #Deployement
 
  You can access our deployed application at the following URL:
